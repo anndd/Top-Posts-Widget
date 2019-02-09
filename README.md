@@ -6,7 +6,7 @@ A simple widget to share your top blog posts. You can add it to your main websit
 **The "blog"** - this is our blog where we track views (see tracking.js below) of blog posts and use the stats in our widget
 https://anndd.github.io/Top-Posts-Widget/demo/blog.html
 
-**The Widget** with the top posts from the blog, grouped into three lists 'This Week', 'This Month' and 'All Time'. 
+**The Widget** with the top posts from the blog, organised into three lists 'This Week', 'This Month' and 'All Time'. 
 https://anndd.github.io/Top-Posts-Widget/demo/widget.html
 
 ## Scripts
