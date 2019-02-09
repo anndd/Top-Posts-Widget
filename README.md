@@ -1,12 +1,12 @@
 # Top-Posts-Widget
-A simple widget to share your top blog posts. You can add it to your main website, internal dashboard, or ask a friend to add it to his blog. The works with any blogging platform. It requires [DataDrivenJS](https://datadrivenjs.com) to track and read blog stats.
+A simple widget to share your top blog posts. You can add it to your main website, internal dashboard, or ask a friend to add it to his blog. The works with any blogging platform. It requires a free [DataDrivenJS](https://datadrivenjs.com) account to track and read blog stats.
 
 ## Demo
 
-The "blog" 
+**The "blog"** - this is our blog where we track views (see tracking.js below) of blog posts and use the stats in our widget
 https://anndd.github.io/Top-Posts-Widget/demo/blog.html
 
-The widget with blog posts:
+**The Widget** with the top posts from the blog, grouped into three lists 'This Week', 'This Month' and 'All Time'. 
 https://anndd.github.io/Top-Posts-Widget/demo/widget.html
 
 ## Scripts
@@ -39,6 +39,4 @@ The first time you use the widget, follow these steps:
 6. Switch back to the page where you have your widget running and click 'All Time'. Take actions described in the step 4. 
 
 Your widget is ready.
-
-
 
